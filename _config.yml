@@ -1,0 +1,28 @@
+name: paau
+favicon: null
+layout_spectrum: 0.5948602787684649
+typography_spectrum: 0.32145477714948356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7566215046681464
+  lightness: 0.7136465136427432
+  saturation: 0.10680889990180731
+  rhythmicContrast: 0.7329864525236189
+purpose: []
