@@ -1,28 +1,40 @@
-name: paau
 favicon: null
-layout_spectrum: 0.5948602787684649
-typography_spectrum: 0.32145477714948356
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: paau
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+  saturation: 0.1068088999018073
   brandStrength: 0.7566215046681464
   lightness: 0.7136465136427432
-  saturation: 0.10680889990180731
+  brandColors:
+    - '#FFFFFF'
+    - '#232524'
+    - '#C9CAC5'
+    - '#6D6852'
+    - '#954580'
   rhythmicContrast: 0.7329864525236189
-purpose: []
+typography_spectrum: 0.3214547771494836
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5948602787684649
+analytics:
+  twitter: null
+  google: null
+  facebook: null
